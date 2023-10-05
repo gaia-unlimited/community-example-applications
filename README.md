@@ -7,4 +7,4 @@ __WARNING__
 
 ## Links to external repositories with further community examples
 
-* [Machine learning modelling of the completeness](https://github.com/Majakas/gaia-completeness-ml-demonstration) of subsamples of the Gaia catalogue by @Majakas.
+* [Machine learning modelling of the completeness](https://github.com/Majakas/gaia-completeness-ml-demonstration) of subsamples of the Gaia catalogue by [Taavet Kalda](https://github.com/Majakas).
